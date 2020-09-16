@@ -3,8 +3,7 @@
 ## CONTACT
 
 Address: pr.Lenina 221-36, Obninsk
-Kaluzhskaja obl., 249034
-Russia
+Kaluzhskaja obl., 249034, Russia
 
 Phone: 8(965)702 72 72
 
