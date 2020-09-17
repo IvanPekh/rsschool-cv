@@ -1,0 +1,74 @@
+* {
+    padding: 0;
+    margin: 0;
+    color: #1d1d1d;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p { font-size: 13px; }
+h1 { text-align: center; }
+h2 {
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 400;
+    font-size: 19px;
+    color: #7e7e7e;
+}
+h3 {
+    font-size: 16px;
+    padding: 15px;
+}
+
+hr {
+    width: 50%;
+    margin: 10px auto 15px;
+    border: 1px solid #edeeef;
+}
+
+.clear {
+    clear: both;
+    height: 1px;
+    line-height: 0;
+    overflow: hidden;
+}
+.container { padding: 0 20px; }
+
+.head img {
+    border-radius: 50px;
+    display: block;
+    margin: 0 auto;
+    padding: 20px 0 30px 0;
+}
+.container .section {
+    margin-top: 25px;
+    width: 50%;
+    float: left;
+    text-align: center;
+    padding-bottom: 30px;
+}
+.container .section .textLeft p { text-align: left; }
+.container .sideRight {
+    width: 49%;
+    border-left: 1px solid #edeeef;
+}
+.col { padding: 0 30px 0 0; }
+.container .sideRight .col { padding: 0 0 0 30px; }
+
+ul, ul li {
+    margin: 0;
+    padding: 0;
+}
+ul {
+    text-align: left;
+    padding-left: 20px;
+}
+.footer {
+    width: 100%;
+    background-color: #edeeef;
+    margin: 0;
+    padding: 20px 0;
+    line-height: 2em;
+    text-align: center;
+}
+.footer p { font-size: 12px; }
+.icon { vertical-align: middle; }
